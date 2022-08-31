@@ -2,11 +2,11 @@
   "todo": [
     {
       "id": 1,
-      "value": "React"
+      "value": "react"
     },
     {
       "id": 2,
-      "value": "Next"
+      "value": "next"
     },
     {
       "value": "solid",
@@ -54,6 +54,10 @@
     },
     {
       "value": "nuclear-js",
+      "id": 14
+    },
+    {
+      "value": "stencil",
       "id": 15
     },
     {
@@ -97,7 +101,7 @@
       "id": 25
     },
     {
-      "value": "stencil",
+      "value": "",
       "id": 26
     }
   ]
